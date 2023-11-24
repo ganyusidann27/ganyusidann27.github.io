@@ -1,0 +1,4 @@
+Tạo cơ sở dữ liệu thứ 2 là:
+database: dangki
+bảng: user
+cột: id, username, password, name, email
